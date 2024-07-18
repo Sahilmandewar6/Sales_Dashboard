@@ -1,5 +1,6 @@
 # Sales_Dashboard
 Excel Workbook Dashboard
+![image](https://github.com/user-attachments/assets/8766f5bd-79be-42a8-9dbc-3e6f4990c168)
 
 Project Overview
 This project is an Excel-based Sales Dashboard designed to provide insightful and actionable data visualizations. The dashboard is developed using advanced Excel techniques, including pivot tables, charts, and conditional formatting, to enable easy data analysis and decision-making.
